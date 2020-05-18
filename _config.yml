@@ -1,5 +1,13 @@
 title: OpenRailroad.org
-description: OpenRailroad is dedicated to open infrastructure, technology and software for Railroads around the world.
+description: Open Railroad is dedicated to open infrastructure, technology and software for Railroads around the world.
 show_downloads: false
 google_analytics:
-theme:
+theme: jekyll-theme-cayman
+github:
+    is_project_page: true
+    repository_url: https://github.com/openrailroad
+    repository_name: Open Railroad
+    owner_url: mailto:contact@openrailroad.org
+    owner_name: contact@openrailroad.org
+slack:
+    slack_url: https://join.slack.com/t/openrailroad/shared_invite/zt-e8213gqv-YuWUufew2kDXrw1HkPD95g
